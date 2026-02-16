@@ -44,7 +44,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://app.appsonair.com/install/9pKgUFaO" target="_blank" rel="noopener noreferrer" className="hover:text-teal-500">
+                <a href="https://app.appsonair.com/install/up9vbH3V" target="_blank" rel="noopener noreferrer" className="hover:text-teal-500">
                   Download
                 </a>
               </li>

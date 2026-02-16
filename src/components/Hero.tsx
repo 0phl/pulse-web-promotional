@@ -54,7 +54,7 @@ export function Hero() {
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
-              <Button size="lg" className="group" onClick={() => window.open('https://app.appsonair.com/install/9pKgUFaO', '_blank')}>
+              <Button size="lg" className="group" onClick={() => window.open('https://app.appsonair.com/install/up9vbH3V', '_blank')}>
                 <Download className="w-5 h-5 mr-2" />
                 Download for Android
               </Button>

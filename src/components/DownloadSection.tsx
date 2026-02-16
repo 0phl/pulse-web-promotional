@@ -45,7 +45,7 @@ export function DownloadSection() {
               whileTap={{
                 scale: 0.98
               }}
-              onClick={() => window.open('https://app.appsonair.com/install/9pKgUFaO', '_blank')}
+              onClick={() => window.open('https://app.appsonair.com/install/up9vbH3V', '_blank')}
               className="inline-flex items-center justify-center h-14 px-8 text-lg font-medium rounded-full bg-white text-teal-900 hover:bg-gray-100 shadow-lg shadow-black/10 transition-colors min-w-[200px]">
 
               <Download className="w-5 h-5 mr-2" />

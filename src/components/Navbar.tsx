@@ -59,7 +59,7 @@ export function Navbar() {
                 {link.name}
               </a>
             )}
-            <Button size="sm" onClick={() => window.open('https://app.appsonair.com/install/9pKgUFaO', '_blank')}>
+            <Button size="sm" onClick={() => window.open('https://app.appsonair.com/install/up9vbH3V', '_blank')}>
               Download App
             </Button>
           </nav>
@@ -103,7 +103,7 @@ export function Navbar() {
                   {link.name}
                 </a>
               )}
-              <Button fullWidth onClick={() => window.open('https://app.appsonair.com/install/9pKgUFaO', '_blank')}>
+              <Button fullWidth onClick={() => window.open('https://app.appsonair.com/install/up9vbH3V', '_blank')}>
                 Download App
               </Button>
             </div>
