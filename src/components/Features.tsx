@@ -37,7 +37,7 @@ const features = [
       'Track your volunteer hours and impact',
       'Get recognized for your contributions'],
 
-    image: "/973bb7e8-63a0-4d6e-9fa2-b569e525e1b2.jpg",
+    image: "/volunteer.jpg",
 
     align: 'right'
   },
